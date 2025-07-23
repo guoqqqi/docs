@@ -7,6 +7,15 @@
     "light": "#07C983",
     "dark": "#15803D"
   },
+ "contextual": {
+   "options": [
+     "copy",
+     "view",
+     "chatgpt",
+     "claude",
+     "perplexity"
+   ]
+ }
   "favicon": "/favicon.svg",
   "navigation": {
     "tabs": [
